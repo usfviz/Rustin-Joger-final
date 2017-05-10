@@ -17,7 +17,7 @@ Roger Wu (rcwu@dons.usfca.edu)
 * `lubridate`
 * `ggvis`
 
-To run the app, use this line of code: `shiny::runGitHub('Rustin-Joger-', 'usfviz', subdir = 'project-prototype')`
+To run the app, use this line of code: `shiny::runGitHub('Rustin-Joger-final', 'usfviz')`. The dataset is somewhat large (~50MB) and may take a bit of time to load.
 
 ## Lending Club Loan Data
 
@@ -51,6 +51,6 @@ The current interface is a single page with a scroll bar. We decided on this imp
 
 
 ## Snapshots
-![](https://github.com/usfviz/Rustin-Joger-/blob/master/project-prototype/screenshots/map.png)
-![](https://github.com/usfviz/Rustin-Joger-/blob/master/project-prototype/screenshots/charts.png)
-![](https://github.com/usfviz/Rustin-Joger-/blob/master/project-prototype/screenshots/word_cloud.png)
+![](https://github.com/usfviz/Rustin-Joger-final/blob/master/screenshots/map.png)
+![](https://github.com/usfviz/Rustin-Joger-final/blob/master/screenshots/charts.png)
+![](https://github.com/usfviz/Rustin-Joger-final/blob/master/screenshots/word_cloud.png)
