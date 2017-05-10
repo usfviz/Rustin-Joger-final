@@ -51,6 +51,6 @@ The current interface is a single page with a scroll bar. We decided on this imp
 
 
 ## Snapshots
-![](https://github.com/usfviz/Rustin-Joger-final/blob/master/screenshots/map.png)
-![](https://github.com/usfviz/Rustin-Joger-final/blob/master/screenshots/charts.png)
-![](https://github.com/usfviz/Rustin-Joger-final/blob/master/screenshots/word_cloud.png)
+![](https://github.com/usfviz/Rustin-Joger-final/blob/master/screenshots/map-2.png)
+![](https://github.com/usfviz/Rustin-Joger-final/blob/master/screenshots/charts-2.png)
+![](https://github.com/usfviz/Rustin-Joger-final/blob/master/screenshots/word_cloud-2.png)
