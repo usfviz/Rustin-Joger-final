@@ -23,7 +23,7 @@ To run the app, use this line of code: `shiny::runGitHub('Rustin-Joger-final', '
 
 Lending Club is a peer-to-peer lending platform. This data can be found on [Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data) and it contains all issued loans from 2007 to 2015. The data set contains approximately 890,000 observations and 75 features. Some of the features include loan amount, loan type, credit scores and geographic data. We supplemented the Lending Club data with population data from the 2010 census.
 
-## Prototype/Techniques
+## App
 
 Our final app consists of three tabs:
 
