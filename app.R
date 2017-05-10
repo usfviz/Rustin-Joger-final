@@ -131,7 +131,7 @@ server <- function(input, output) {
   loan.df.grade <- reactive({
     if (input$state.grade != 'All') {
       loan.data %>% 
-        filter(addr_state == state.abb[match(input$state.word, state.name)])
+        filter(addr_state == state.abb[match(input$state.grade, state.name)])
     } else {
       loan.data
     }
